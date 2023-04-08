@@ -1,0 +1,12 @@
+<html>
+
+	<title> The Sneaker Outlet </title>
+
+	<head> <h2> <i> <center> The Sneaker Outlet. </i> </center> </h2> </head>
+
+	<body>
+
+	<p> This is the last page
+<br> </br>
+	
+	<a href= "first sneaker webpage.html" Click to Page 1 </a>
